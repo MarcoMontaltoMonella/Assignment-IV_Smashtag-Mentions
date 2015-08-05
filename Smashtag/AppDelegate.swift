@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Smashtag
 //
-//  Created by Marco Montalto Monella on 05/08/2015.
-//  Copyright (c) 2015 Marco Montalto Monella. All rights reserved.
+//  Created by CS193p Instructor.
+//  Copyright (c) 2015 Stanford University. All rights reserved.
 //
 
 import UIKit
