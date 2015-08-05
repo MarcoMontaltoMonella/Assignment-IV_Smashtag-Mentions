@@ -12,7 +12,7 @@ class TweetTableViewController: UITableViewController, UITextFieldDelegate
 {
     // MARK: - Public API
     
-    var test: String?
+    
 
     var tweets = [[Tweet]]()
 
